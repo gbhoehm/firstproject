@@ -1,3 +1,3 @@
 print("Hello, world!")
-print("Hellon world2!")
-print("On branck 1!")
+print("Hello, world2!")
+print("On branch 1!")
